@@ -1,14 +1,11 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Поиск не дорогих авиабилетов
 
-This project has been created using **webpack-cli**, you can now run
+Приложение на ванильном javascript с использованием materialize-css,
+сборка webpack 5
 
 ```
 npm run build
-```
-
 or
-
-```
 yarn build
 ```
 
