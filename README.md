@@ -13,8 +13,6 @@ product:
 npm run build
 ```
 
-to bundle your application
-
 
 
 [GitHub pages: https://boriskhalkov.github.io/CheapAviaTickets/dist/index.html](https://boriskhalkov.github.io/CheapAviaTickets/dist/index.html "GitHub pages")
