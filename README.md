@@ -13,3 +13,7 @@ yarn build
 ```
 
 to bundle your application
+
+GitHub pages:
+
+[пример](https://boriskhalkov.github.io/CheapAviaTickets/dist/index.html "Необязательная подсказка")
